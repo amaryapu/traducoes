@@ -158,7 +158,7 @@ vocabulário consultado, exigindo **cunhagem por falante**:
 
 > ## **Um falante — do Alto Rio Negro, onde o nheengatu é cooficial — pago, **creditado como autor**, com o pt-BR ao lado, cunhando os cinco termos acima.**
 >
-> ## **A tradução entra assinada por quem a fez, e a autoria dela não é cedida a este projeto.** Traduzir este livro para o nheengatu sem creditar quem traduziu repetiria, **no ato da reparação**, a operação que o livro passou quinhentos anos rastreando.
+> ## **A tradução entra assinada por quem a fez, e a autoria dela não é cedida a este projeto.** Traduzir este livro para o nheengatu sem creditar quem traduziu repetiria, **no ato mesmo de abrir o acesso**, a operação que o livro passou quinhentos anos rastreando.
 
 **`A CONFERIR`** · pendência **T2**.
 

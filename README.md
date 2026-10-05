@@ -17,7 +17,15 @@ livro rastreia:
 - **`M5`** — pôr uma falsificação **exatamente no canal** por onde o saber deveria
   passar. Canal ocupado por ruído é canal cortado.
 
-> ## **Fabricar fluência numa língua que quase se perdeu é a forma mais cruel de `M5`, porque chega com cara de reparação.**
+> ## **Fabricar fluência quebra a transmissão exatamente no ponto em que ela ia começar.**
+
+**`[FATO]`** O propósito declarado deste trabalho é **acessibilidade**: que a
+informação chegue **em mais línguas**, e que o passado possa ser mostrado em mais
+de uma. **Nada aqui é reparação, e este projeto não tem esse poder nem o reivindica.**
+
+**`[CÁLCULO]`** E é justamente por ser acessibilidade que não se pode inventar:
+**um texto falso não é acessível.** É ruído vestido com a roupa da língua — e ocupa
+o canal que existia para transmitir.
 
 ---
 
@@ -171,7 +179,7 @@ espera do falante perfeito seria `M5` auto-infligido.
 | **T4.3** | **falantes pagos e creditados como autores** em cada língua do grupo II |
 | **R31** | o campo da origem, ausente na matriz do livro — **registrado, não apagado** |
 
-> ## **A tradução entra assinada por quem a fez, e a autoria dela não é cedida a este projeto.** Traduzir este livro sem creditar quem traduziu repetiria, **no ato da reparação**, a operação que ele passou quinhentos anos rastreando.
+> ## **A tradução entra assinada por quem a fez, e a autoria dela não é cedida a este projeto.** Traduzir este livro sem creditar quem traduziu repetiria, **no ato mesmo de abrir o acesso**, a operação que ele passou quinhentos anos rastreando.
 
 ---
 

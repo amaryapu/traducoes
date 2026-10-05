@@ -55,7 +55,7 @@ partiu.**
 
 **`CÁLCULO`** Logo: **ordenar as línguas pelos etnônimos do arquivo seria reproduzir
 `M3` acreditando estar corrigindo `M1`.** Trocaríamos um buraco por uma falsificação
-com cara de reparação — que é a definição que o `PROTOCOLO` deu de `M5`.
+com cara de acesso — que é a definição que o `PROTOCOLO` deu de `M5`.
 
 ---
 

@@ -20,11 +20,43 @@ livro:
   passar. Não é só errar: é **ocupar a passagem**, e canal ocupado por ruído é canal
   cortado.
 
-> ## **Fabricar fluência numa língua que quase se perdeu é a forma mais cruel de `M5`, porque ela chega com cara de reparação.**
+> ## **Fabricar fluência quebra a transmissão exatamente no ponto em que ela ia começar.**
+
+**`[FATO]`** O propósito declarado deste trabalho é **acessibilidade**: que a
+informação chegue **em mais línguas**, e que o passado possa ser mostrado em mais
+de uma. **Nada aqui é reparação, e este projeto não tem esse poder nem o reivindica.**
+
+**`[CÁLCULO]`** E é justamente por ser acessibilidade que não se pode inventar:
+**um texto falso não é acessível.** É ruído vestido com a roupa da língua — e ocupa
+o canal que existia para transmitir.
 
 Então vale aqui a regra que vale no livro inteiro:
 
 > # **Este projeto não transcreve o que não consegue ler — e não traduz o que não consegue falar.**
+
+---
+
+## `R33` — o enquadramento de «reparação» era meu, não do projeto
+
+> ## **`[FATO]`** **Corrigido em 05/10/2026, por determinação do operador.**
+
+**`[FATO]`** Este protocolo dizia que fabricar fluência era grave **«porque chega com
+cara de reparação».** **`[FATO]`** O operador nunca enunciou reparação como motivo
+deste trabalho. O motivo declarado por ele, literalmente, foi **dar acessibilidade em
+múltiplos idiomas** e **transmitir informação e mostrar o passado.**
+
+> ## **`[CÁLCULO]`** Foi **inferência minha**, e é a mesma falha que o livro já registrou três vezes: **atribuir ao operador uma posição que ele não tomou.** Aqui foi pior, porque a inferência não entrou numa leitura — **entrou numa regra**, e uma regra enquadra tudo o que vem depois dela.
+
+**`[CÁLCULO]`** E o enquadramento errado **enfraquecia o argumento.** «Reparação»
+atribui ao projeto um poder que ele não tem e desloca o eixo para a intenção de quem
+escreve. **Acessibilidade é verificável:** ou a informação chega naquela língua, ou
+não chega.
+
+> ## **O motivo correto para não inventar é mais simples e mais forte: um texto falso não é acessível. É ruído com a roupa da língua, e ocupa o canal que existia para transmitir.**
+
+**`[REGRA]`** **Nenhum texto deste projeto atribui a si mesmo função reparatória**, e
+nenhum atribui ao operador posição que ele não declarou. **Erro registrado, não
+apagado.**
 
 ---
 
