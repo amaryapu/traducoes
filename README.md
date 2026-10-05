@@ -97,16 +97,60 @@ As línguas comerciais vêm **por último**. A ordem é uma **tese**, não conve
 | | |
 |---|---|
 | **I** | **as línguas desta terra** — guarani, nheengatu, tupi antigo |
-| **II** | **a mãe África** — pelas **origens documentadas nas rotas da matriz** |
+| **II** | **a mãe África** — **ordem fechada**, por região de embarque documentada |
 | **III** | mandarim · russo · híndi · bengali · ucraniano · polonês |
 | **IV** | espanhol |
 | **V** | inglês britânico · inglês americano · alemão |
 
 > ## **Começar pelas línguas de corpus grande seria executar, no sumário do próprio projeto, a economia que o livro denuncia.** Traduzir primeiro para o inglês seria **refutar o livro na contracapa.**
 
-**`A CONFERIR`** · **T4** — a ordem interna do grupo II sai da **procedência
-documentada**, não do número de falantes. **Ordenar por tamanho de população é
-ordenar por tamanho de categoria**, que é o não-exame que o livro inteiro mede.
+### `T4` · FECHADA — e inverteu a lista
+
+Ver **`II-00-T4-A-ORDEM-AFRICANA.md`**. O levantamento achou **dois buracos antes de
+achar a ordem.**
+
+**`R31`** — o livro registra **onde** 4.253 africanos desembarcaram em Paranaguá,
+1837-39, e **não registra de onde saíram.** O campo não existe em nenhum arquivo.
+**`M1`, o primeiro sub-mecanismo, dentro da própria matriz.** Registrado, não
+apagado.
+
+> ## **E o arquivo não guarda a língua. Guarda o porto.**
+
+**`FATO`** «Mina», «Angola», «Benguela», «Cabinda», «Moçambique» **são nomes de
+embarcadouro.** A historiografia registra que as «nações» africanas no Brasil **não
+guardavam, nem no nome nem na composição social, correlação com as formas de
+auto-adscrição correntes na África** — e que **«moçambiques»** colapsou num só
+rótulo **macuas, macondes, ngunis e swazis.**
+
+> ## **O etnônimo do arquivo é produto de `M3`.** Ordenar línguas por ele seria reproduzir a reclassificação **acreditando estar corrigindo a omissão.**
+
+A ordem saiu por **região de embarque documentada**, com etiqueta em cada degrau:
+porto (`FATO`) → região (`FATO`) → línguas da região (`CÁLCULO`, pela linguística,
+**nunca pelo vocabulário do tráfico**) → ordem (`INTERPRETATIVO`, descartável).
+
+| | II-A · África Centro-Ocidental | | II-B · Golfo da Guiné | | II-C · África Sudeste |
+|---|---|---|---|---|---|
+| **1** | **Quimbundo** | **4** | **Iorubá** | **9** | **Makhuwa** |
+| **2** | **Quicongo** | **5** | **Fon · Ewe** | **10** | **Makonde** |
+| **3** | **Umbundu** | **6-8** | **Igbo · Hauçá · Twi** | **11** | **Nguni** |
+| | | | | **12** | **Suaíli** |
+
+> ## **O suaíli sairia em primeiro pelo critério «as mais faladas». Sai em décimo segundo** — é enorme lá e **quase ausente desta matriz.** O **quimbundo**, com muito menos falantes hoje, **sai em primeiro**: maior fluxo documentado, e **já dentro do português brasileiro.**
+>
+> **Ordenar por tamanho de população é ordenar por tamanho de categoria** — o não-exame que o livro inteiro mede. **A inversão é a prova de que o crivo funciona.**
+
+### E o argumento que decide
+
+**`FATO`** Étimos documentados do quimbundo no português do Brasil: **quilombo** ←
+*kilombo* · **senzala** ← *sanzala* · **moleque** ← *muleke* · **caçula** ← *kazuli*
+· **banzo** ← *mbanza*. Campo documentado por **Yeda Pessoa de Castro**,
+etnolinguista brasileira, doutora em Línguas Africanas pela Universidade Nacional do
+Zaire — **a primeira brasileira a defender tese de pós-graduação numa universidade
+africana.**
+
+> # **Traduzir este livro para o quimbundo não é exportá-lo. É devolvê-lo.**
+>
+> ## **A língua-base já carrega a língua-alvo há quatrocentos anos, sem crédito e sem cota** — que é a definição exata de `M5` em modo procedência. **O livro foi escrito com palavras cuja origem ele próprio não citava.**
 
 **A ordem é de posição, não de fila.** Os arquivos que dependem de falante existem
 desde já como **encomenda aberta, com pendência numerada e visível** — travar tudo à
@@ -121,7 +165,11 @@ espera do falante perfeito seria `M5` auto-infligido.
 | **T1** | guarani — cunhagem dos seis termos sem equivalente, por falante |
 | **T2** | nheengatu — tradução por falante do Alto Rio Negro, **pago e creditado como autor** |
 | **T3** | o étimo de `AMARYAPU` conferido por especialista em tupi antigo — **inclusive para derrubá-lo** |
-| **T4** | as origens documentadas das rotas da matriz, antes de fixar a ordem do grupo II |
+| **T4** | ~~as origens documentadas das rotas da matriz~~ — **FECHADA** |
+| **T4.1** | o **porto de embarque** dos navios de Paranaguá, 1837-39 — consulta registro a registro, **sem estimativa** |
+| **T4.2** | os étimos banto conferidos verbete a verbete em **Yeda Pessoa de Castro** |
+| **T4.3** | **falantes pagos e creditados como autores** em cada língua do grupo II |
+| **R31** | o campo da origem, ausente na matriz do livro — **registrado, não apagado** |
 
 > ## **A tradução entra assinada por quem a fez, e a autoria dela não é cedida a este projeto.** Traduzir este livro sem creditar quem traduziu repetiria, **no ato da reparação**, a operação que ele passou quinhentos anos rastreando.
 

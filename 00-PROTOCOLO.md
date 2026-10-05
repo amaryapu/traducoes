@@ -99,9 +99,13 @@ ligando este livro a portos, a rotas e a origens específicas.**
 
 > ## **O crivo correto é a procedência, não o tamanho.** As línguas que **chegaram ao Brasil pelas rotas que estão na matriz** — do tronco banto do Congo-Angola, e as do golfo da Guiné — têm **cota de arquivo neste livro.** Uma língua com mais falantes e **nenhuma entrada na matriz** é uma língua importante **sem procedência aqui** — e entra depois, declarando isso.
 
-**`A CONFERIR`** · **T4** — levantar, na matriz e na bibliografia, **quais origens
-estão documentadas** para as rotas que o livro cita, **antes** de fixar a ordem
-interna do grupo II. **A ordem africana não será escrita por estimativa.**
+> ## **`T4` está FECHADA** — ver **`II-00-T4-A-ORDEM-AFRICANA.md`**. O levantamento achou dois buracos antes de achar a ordem.
+>
+> **`R31`** — o livro registra **onde** 4.253 pessoas desembarcaram em 1837-39 e **não registra de onde saíram.** `M1` dentro da própria matriz.
+>
+> **E o arquivo não guarda a língua: guarda o porto.** «Mina», «Angola», «Moçambique» são **embarcadouros**, não povos — **o etnônimo do arquivo é produto de `M3`.** Ordenar por ele reproduziria a reclassificação acreditando corrigir a omissão.
+>
+> **A ordem saiu por região de embarque documentada**, e **inverteu a lista**: o suaíli, que seria o primeiro pelo número de falantes, **sai em décimo segundo**; o quimbundo, com muito menos falantes, **sai em primeiro** — maior fluxo documentado, e **já dentro do português brasileiro.**
 
 ### 4 · O limite — a ordem é honra, não fila
 
